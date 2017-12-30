@@ -21,15 +21,15 @@ categories:
  - logo可以由ai做，导出png档
  - 老师提供了一个logo制作网页[Favicon Generator. For real.]("https://realfavicongenerator.net/favicon_result?file_id=p1c0fpm1o81ht6kse1cl5187h1bi06")
  - 把自己的logo的png档提交上去
- - ![提交步骤一,看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤一.png")
- - ![提交步骤二，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤二.png")
- - ![提交步骤三，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤三.png")
+ - [提交步骤一,看到这句话说明，图片加载不出来，麻烦你手动点击进去看]("https://github.com/treeice/PhotoForUrl/步骤一.png")
+ - [提交步骤二，看到这句话说明，图片加载不出来，麻烦你手动点击进去看]("https://github.com/treeice/PhotoForUrl/步骤二.png")
+ - [提交步骤三，看到这句话说明，图片加载不出来，麻烦你手动点击进去看]("https://github.com/treeice/PhotoForUrl/步骤三.png")
  - - 以下步骤，该模板以完成
  - - 生成后，把文件压缩包下载下来，其中黑框的代码，是引用logo的代码，在jekyll里面，网页的各种信息是存放在不同位置，然后通过统一的引用就能加入所有的网页中去
  - - 这里，我们在_includes文件夹中创建一个名为favicon.html的文件。在里面把那几行代码填入：
- - - ![提交步骤四，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤四.png")
+ - - [提交步骤四，看到这句话说明，图片加载不出来，麻烦你手动点击进去看]("https://github.com/treeice/PhotoForUrl/步骤四.png")
  - - 然后打开_layout文件夹下的_default.html文件夹，把刚刚创建的favicon.html的文件加入网页之中，格式是大括号{\% \%}，里面填写引用代码的文件位置，这里是 include favicon.html 两个位置。
- - - ![提交步骤五，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤五.png")
+ - - [提交步骤五，看到这句话说明，图片加载不出来，麻烦你手动点击进去看]("https://github.com/treeice/PhotoForUrl/步骤五.png")
  - 以上步骤，该模板以完成
 ---
 # 接下来
@@ -40,5 +40,5 @@ categories:
  + + favicon-32x32.png
  + + favicon.ico
  + + manifest.json
- - ![提交步骤六，看到这句话说明，图片加载不出来]("https://github.com/treeice/PhotoForUrl/步骤六.png")
+ - [提交步骤六，看到这句话说明，图片加载不出来，麻烦你手动点击进去看]("https://github.com/treeice/PhotoForUrl/步骤六.png")
  - 然后logo就生成换好了。
