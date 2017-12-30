@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/jekyll/github/update/%25E7%2594%25A8GitHub%25E8%25A3%259DGitHub_Desktop/</loc>
-<lastmod>2017-12-01T22:07:50+08:00</lastmod>
+<loc>/%25E7%25BD%2591%25E9%25A1%25B5logo/</loc>
+<lastmod>2017-12-07T23:45:15+08:00</lastmod>
 </url>
 <url>
-<loc>/jekyll/ruby/update/%25E7%25B7%25B4Jekyll%25E8%25A3%259DRuby/</loc>
-<lastmod>2017-11-30T22:07:50+08:00</lastmod>
+<loc>/%25E4%25B8%2580%25E4%25BA%259B%25E5%25BB%25BA%25E8%25AE%25AE/</loc>
+<lastmod>2017-11-30T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>/infovis/</loc>
+</url>
+<url>
+<loc>/portfolio/</loc>
 </url>
 <url>
 <loc>/</loc>

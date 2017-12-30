@@ -1,12 +1,11 @@
-# main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+# Site navigation links
+
+- title: 网页设计作品集
+  url: /portfolio/ 
+  excerpt: "网页设计的个人作品集"
+  
+
+- title: 信息可视化作品集
+  url: /infovis/ 
+  excerpt: "信息可视化的个人作品集"
+  
