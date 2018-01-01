@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/posts/css%25E8%25AF%25AD%25E6%25B3%2595/</loc>
+<loc>/notes/html%25E8%25AF%25AD%25E6%25B3%2595/</loc>
+<lastmod>2018-01-01T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>/notes/css%25E8%25AF%25AD%25E6%25B3%2595/</loc>
 <lastmod>2017-12-31T00:00:00+08:00</lastmod>
 </url>
 <url>
