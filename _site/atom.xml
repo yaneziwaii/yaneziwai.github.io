@@ -1,120 +1,167 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-01T17:32:59+08:00</updated><id>/</id><title>覃沛聪个人学习网页</title><subtitle>不懂</subtitle><entry><title>html语法</title><link href="/notes/html%E8%AF%AD%E6%B3%95/" rel="alternate" type="text/html" title="html语法" /><published>2018-01-01T00:00:00+08:00</published><updated>2018-01-01T00:00:00+08:00</updated><id>/notes/html语法</id><content type="html" xml:base="/notes/html%E8%AF%AD%E6%B3%95/">&lt;p&gt;超文本标记语言，标准通用标记语言下的一个应用。“超文本”就是指页面内可以包含图片、链接，甚至音乐、程序等非文字元素。超文本标记语言的结构包括“头”部分、和“主体”部分，其中“头”部提供关于网页的信息，“主体”部分提供网页的具体内容。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-01T18:40:27+08:00</updated><id>/</id><title>覃沛聪个人学习网页</title><subtitle>不懂</subtitle><entry><title>html语法</title><link href="/notes/html%E8%AF%AD%E6%B3%95/" rel="alternate" type="text/html" title="html语法" /><published>2018-01-01T00:00:00+08:00</published><updated>2018-01-01T00:00:00+08:00</updated><id>/notes/html语法</id><content type="html" xml:base="/notes/html%E8%AF%AD%E6%B3%95/">&lt;p&gt;超文本标记语言，标准通用标记语言下的一个应用。“超文本”就是指页面内可以包含图片、链接，甚至音乐、程序等非文字元素。超文本标记语言的结构包括“头”部分、和“主体”部分，其中“头”部提供关于网页的信息，“主体”部分提供网页的具体内容。&lt;/p&gt;
 
 &lt;h1 id=&quot;html&quot;&gt;Html语法&lt;/h1&gt;
-&lt;p&gt;### 图像
-&lt;strong&gt;定义图像:&lt;/strong&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-&amp;lt;img src=&quot;url&quot; /&amp;gt;
-&lt;/code&gt;
-&lt;strong&gt;url&lt;/strong&gt; 指存储图像的位置&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&quot;section&quot;&gt;图像&lt;/h3&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;超链接&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;超链接的代码&lt;/strong&gt;：
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-&amp;lt;a href=&quot;url&quot;&amp;gt;Link text&amp;lt;/a&amp;gt;
-&lt;/code&gt;
-&lt;strong&gt;href&lt;/strong&gt;属性规定链接的目标。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定义图像:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;targer属性&lt;/strong&gt;:你可以定义被链接的文档在何处显示。
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-&amp;lt;a href=&quot;url&quot; target=&quot;_blank&quot;&amp;gt;填入被链接的目标&amp;lt;/a&amp;gt;
-&lt;/code&gt;
-这行代码会让你的超链接在新的窗口打开&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;文本&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：
-```&lt;/p&gt;
-&lt;h1&gt;标题1&lt;/h1&gt;
-&lt;h2&gt;标题2&lt;/h2&gt;
-&lt;h3&gt;标题3&lt;/h3&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;标题是通过**h1-h6**等标签进行定义的。**h1**定义最大的标题，**h6**定义最小的标题。
-
-标题 | 效果
----|---
-标题1 | &amp;lt;h1&amp;gt;标题1
-标题2 | &amp;lt;h2&amp;gt;标题2
-标题3 | &amp;lt;h3&amp;gt;标题3
-标题4 | &amp;lt;h4&amp;gt;标题4
-标题5 | &amp;lt;h5&amp;gt;标题5
-标题6 | &amp;lt;h6&amp;gt;标题6
-
----
-
-
-**水平线:**
-
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;img src=&quot;url&quot; /&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;url&lt;/strong&gt; 指存储图像的位置&lt;/p&gt;
+
 &lt;hr /&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;标签在 HTML 页面中创建水平线,
-比如：
-&amp;lt;p&amp;gt;这是个句子&amp;lt;/p&amp;gt;
+&lt;h3 id=&quot;section-1&quot;&gt;超链接&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;超链接的代码&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;a href=&quot;url&quot;&amp;gt;Link text&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;href&lt;/strong&gt;属性规定链接的目标。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;targer属性&lt;/strong&gt;:你可以定义被链接的文档在何处显示。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;a href=&quot;url&quot; target=&quot;_blank&quot;&amp;gt;填入被链接的目标&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;这行代码会让你的超链接在新的窗口打开&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;文本&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;h1&amp;gt;标题1&amp;lt;/h1&amp;gt;
+&amp;lt;h2&amp;gt;标题2&amp;lt;/h2&amp;gt;
+&amp;lt;h3&amp;gt;标题3&amp;lt;/h3&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;标题是通过&lt;strong&gt;h1-h6&lt;/strong&gt;等标签进行定义的。&lt;strong&gt;h1&lt;/strong&gt;定义最大的标题，&lt;strong&gt;h6&lt;/strong&gt;定义最小的标题。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;标题&lt;/th&gt;
+      &lt;th&gt;效果&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;标题1&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h1&amp;gt;标题1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;标题2&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h2&amp;gt;标题2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;标题3&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h3&amp;gt;标题3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;标题4&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h4&amp;gt;标题4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;标题5&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h5&amp;gt;标题5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;标题6&lt;/td&gt;
+      &lt;td&gt;&amp;lt;h6&amp;gt;标题6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;水平线:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;hr /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;标签在 HTML 页面中创建水平线,
+比如：&lt;/p&gt;
+
+&lt;p&gt;这是个句子&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;这是个句子&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;这是个句子&lt;/p&gt;
+
+&lt;p&gt;原代码为：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt;这是个句子&amp;lt;/p&amp;gt;
 &amp;lt;hr /&amp;gt;
 &amp;lt;p&amp;gt;这是个句子&amp;lt;/p&amp;gt;
 &amp;lt;hr /&amp;gt;
 &amp;lt;p&amp;gt;这是个句子&amp;lt;/p&amp;gt;
-
-原代码为：
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt;这是个句子&lt;/p&gt;
-&lt;hr /&gt;
 
-&lt;p&gt;这是个句子&lt;/p&gt;
-&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;段落&lt;/strong&gt;:&lt;/p&gt;
 
-&lt;p&gt;这是个句子&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-**段落**:
-
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt; 
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt; 
-```
-标签能定义一个段落，比如：
+
+&lt;p&gt;标签能定义一个段落，比如：&lt;/p&gt;
+
 &lt;p&gt;这是一个段落&lt;/p&gt;
 
-原代码为：
-```
-&lt;p&gt;这是一个段落&lt;/p&gt;
-```
+&lt;p&gt;原代码为：&lt;/p&gt;
 
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt;这是一个段落&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-**拆行**：
+&lt;p&gt;&lt;strong&gt;拆行&lt;/strong&gt;：&lt;/p&gt;
 
-```
-&lt;br /&gt;
-```
-标签在不产生一个新段落的情况下能进行换行,比如：
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;br/&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;标签在不产生一个新段落的情况下能进行换行,比如：&lt;/p&gt;
+
 &lt;p&gt;这是一个&lt;br /&gt;有换行符的&lt;br /&gt;句子&lt;/p&gt;
 
-原代码为：
-```
-&lt;p&gt;这是一个&lt;br /&gt;有换行符的&lt;br /&gt;句子&lt;/p&gt;
-```
+&lt;p&gt;原代码为：&lt;/p&gt;
 
-### 背景
-**背景颜色**：
-```
-&lt;body bgcolor=&quot;#000000&quot;&gt;
-&lt;body bgcolor=&quot;rgb(0,0,0)&quot;&gt;
-&lt;body bgcolor=&quot;black&quot;&gt;
-```
-属性值可以是十六进制数、RGB 值或颜色名。
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt;这是一个&amp;lt;br /&amp;gt;有换行符的&amp;lt;br /&amp;gt;句子&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-**背景图像**:
-```
-&lt;body background=&quot;rul&quot;&gt;
-```
-url可以是相对地址，也可以使用绝对地址
-&lt;/body&gt;&lt;/body&gt;&lt;/body&gt;&lt;/body&gt;&lt;/p&gt;</content><summary>超文本标记语言，标准通用标记语言下的一个应用。“超文本”就是指页面内可以包含图片、链接，甚至音乐、程序等非文字元素。超文本标记语言的结构包括“头”部分、和“主体”部分，其中“头”部提供关于网页的信息，“主体”部分提供网页的具体内容。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;feature&quot;=&gt;&quot;html.jpg&quot;, &quot;teaser&quot;=&gt;&quot;html.jpg&quot;}" /></entry><entry><title>css语法</title><link href="/notes/css%E8%AF%AD%E6%B3%95/" rel="alternate" type="text/html" title="css语法" /><published>2017-12-31T00:00:00+08:00</published><updated>2017-12-31T00:00:00+08:00</updated><id>/notes/css语法</id><content type="html" xml:base="/notes/css%E8%AF%AD%E6%B3%95/">&lt;p&gt;层叠样式表(Cascading Style Sheets)是一种用来表现HTML或XML等文件样式的计算机语言。CSS不仅可以静态地修饰网页，还可以配合各种脚本语言动态地对网页各元素进行格式化。 CSS 能够对网页中元素位置的排版进行像素级精确控制，支持几乎所有的字体字号样式，拥有对网页对象和模型样式编辑的能力。&lt;/p&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;背景&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;背景颜色&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;body bgcolor=&quot;#000000&quot;&amp;gt;
+&amp;lt;body bgcolor=&quot;rgb(0,0,0)&quot;&amp;gt;
+&amp;lt;body bgcolor=&quot;black&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;属性值可以是十六进制数、RGB 值或颜色名。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;背景图像&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;body background=&quot;rul&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;url可以是相对地址，也可以使用绝对地址&lt;/p&gt;</content><summary>超文本标记语言，标准通用标记语言下的一个应用。“超文本”就是指页面内可以包含图片、链接，甚至音乐、程序等非文字元素。超文本标记语言的结构包括“头”部分、和“主体”部分，其中“头”部提供关于网页的信息，“主体”部分提供网页的具体内容。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;feature&quot;=&gt;&quot;html.jpg&quot;, &quot;teaser&quot;=&gt;&quot;html.jpg&quot;}" /></entry><entry><title>css语法</title><link href="/notes/css%E8%AF%AD%E6%B3%95/" rel="alternate" type="text/html" title="css语法" /><published>2017-12-31T00:00:00+08:00</published><updated>2017-12-31T00:00:00+08:00</updated><id>/notes/css语法</id><content type="html" xml:base="/notes/css%E8%AF%AD%E6%B3%95/">&lt;p&gt;层叠样式表(Cascading Style Sheets)是一种用来表现HTML或XML等文件样式的计算机语言。CSS不仅可以静态地修饰网页，还可以配合各种脚本语言动态地对网页各元素进行格式化。 CSS 能够对网页中元素位置的排版进行像素级精确控制，支持几乎所有的字体字号样式，拥有对网页对象和模型样式编辑的能力。&lt;/p&gt;
 
 &lt;h1 id=&quot;css&quot;&gt;css语法&lt;/h1&gt;
 
