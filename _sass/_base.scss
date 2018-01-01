@@ -11,7 +11,7 @@ body {
 	color: $text-color;
 	background-images:
 		linear-gradient(rgba(255,255,240,0.9),rgba(255,255,240,0.7)),
-		url("../images/junhang.JPG");
+		url("../images/background.gif");
 	@include font-size(16);
 }
 
