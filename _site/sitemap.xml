@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/notes/html%25E8%25AF%25AD%25E6%25B3%2595/</loc>
+<loc>/posts/rwd/html%25E8%25AF%25AD%25E6%25B3%2595/</loc>
 <lastmod>2018-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/notes/css%25E8%25AF%25AD%25E6%25B3%2595/</loc>
+<loc>/posts/rwd/css%25E8%25AF%25AD%25E6%25B3%2595/</loc>
 <lastmod>2017-12-31T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/notes/WSG4%25E7%25AC%25AC%25E5%258D%2581%25E4%25BA%258C%25E7%25AB%25A0%25E7%25BF%25BB%25E8%25AF%2591/</loc>
+<loc>/posts/rwd/WSG4%25E7%25AC%25AC%25E5%258D%2581%25E4%25BA%258C%25E7%25AB%25A0%25E7%25BF%25BB%25E8%25AF%2591/</loc>
 <lastmod>2017-12-30T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>/notes/WSG4%25E7%25AC%25AC%25E5%258D%2581%25E4%25B8%2580%25E7%25AB%25A0%25E7%25BF%25BB%25E8%25AF%2591/</loc>
-<lastmod>2017-12-29T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>/infovis/</loc>
