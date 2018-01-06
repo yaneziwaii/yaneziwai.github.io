@@ -374,9 +374,9 @@
 
 
 
- /*
+/*
    Printer Setup
-   ======================================================================= */
+   ========================================================================== */
 @page {
   size: A4;
   margin: 0;
@@ -412,15 +412,16 @@
 		height: 256mm;
 		outline: 2cm #cbecff solid;
 	}
-	
+
+
+
+		
     p {
 	    font-size: 0.625rem !important;		
 	}
-	
 	h1 {
 	    font-size: 1rem !important;		
 	}
-	
 	h2, h3, h4, h5, h6 {
 	    font-size: 0.75rem !important;		
 	}
