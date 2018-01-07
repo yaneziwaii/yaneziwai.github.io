@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "覃沛聪个人学习网站"
+title: "杨子纬个人学习网页"
 description: "期末专案作业"
 affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"
 logo: # 120x120 px default image used for Twitter summary card
@@ -27,14 +27,14 @@ gems:
 
 # Site owner
 owner:
-  name: 覃沛聪
-  email:  772878394@qq.com
+  name: 杨子纬
+  email:  yaneziwaii@gmail.com
   twitter: 
   google:
     ad-client:
     ad-slot:
-  bio: "16级网络与新媒体专业学生"
-  avatar: linfeng.jpg
+  bio: "16级网络与新媒体专业二年级学生"
+  avatar: IMG_0012.jpg
   disqus-shortname:
 
 
