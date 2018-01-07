@@ -6,8 +6,8 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: notes.gif
-  teaser: notes.gif
+  feature: notes.png
+  teaser: notes.png
 ---
 
 以下是我的学习笔记
