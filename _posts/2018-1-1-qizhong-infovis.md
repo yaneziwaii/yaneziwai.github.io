@@ -1,10 +1,10 @@
 ---
 layout: article
-title:  "qizhong-infovis"
+title:  "MID-infovis"
 categories: infovis2
 image: 
- feature: infovis-people.png
- teaser: infovis-people.png
+ feature: eco.png
+ teaser: eco.png
 ---
 
  期中可视化专案
